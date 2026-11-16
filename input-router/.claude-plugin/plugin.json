@@ -1,0 +1,1 @@
+{ "name": "input-router", "version": "0.1.0", "description": "Has Haiku pre-read big files and connector results and pass Claude only the parts that matter, saving tokens." }

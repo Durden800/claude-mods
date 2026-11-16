@@ -1,0 +1,1 @@
+{ "name": "switchboard", "version": "0.1.0", "description": "/mods opens a panel listing every mod with an on/off switch.", "types": "./types/index.d.ts" }

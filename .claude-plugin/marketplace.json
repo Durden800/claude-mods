@@ -1,0 +1,9 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Durden800" },
+  "plugins": [
+    { "name": "switchboard", "source": "./switchboard", "description": "/mods opens a panel listing every mod with an on/off switch." },
+    { "name": "input-router", "source": "./input-router", "description": "Haiku pre-reads big files and connector results so Claude reads only what matters." },
+    { "name": "ask-first-guard", "source": "./ask-first-guard", "description": "Asks Allow or Block before Claude sends email, changes the calendar, deletes or shares." }
+  ]
+}
