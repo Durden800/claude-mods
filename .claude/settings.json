@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-mods": {
+      "source": { "source": "github", "repo": "Durden800/claude-mods" }
+    }
+  },
+  "enabledPlugins": {
+    "input-router@claude-mods": true
+  }
+}
